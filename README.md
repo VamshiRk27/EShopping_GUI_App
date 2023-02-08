@@ -7,6 +7,6 @@ Many Functionalities/Features like **Login, SignUp, Search, Cart, Products List 
 The Basic Flow of the app can be seen in the below shown image.
 
 <p align="center">
-<img src="https://github.com/VamshiRk27/EShopping_GUI_App/blob/main/EShopping-App/EShopping%20ScreenShots/App%20Flow.png?raw=true" width="800" height="600" />
+<img src="https://github.com/VamshiRk27/EShopping_GUI_App/blob/main/EShopping-App/EShopping%20ScreenShots/App%20Flow.png?raw=true" width="700" height="450" />
 </p>
 <p align="center">App Flow </p>
